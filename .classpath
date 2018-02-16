@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Downloads/javamail1_4_5/javamail-1.4.5/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Downloads/javamail1_4_5/javamail-1.4.5/lib/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Downloads/javamail1_4_5/javamail-1.4.5/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Downloads/javamail1_4_5/javamail-1.4.5/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Downloads/javamail1_4_5/javamail-1.4.5/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Downloads/javamail1_4_5/javamail-1.4.5/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Desktop/automatic mail project libraries/cxf-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Desktop/automatic mail project libraries/cxf-rt-frontend-jaxrs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Desktop/automatic mail project libraries/cxf-rt-rs-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Desktop/automatic mail project libraries/cxf-rt-transports-http.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Desktop/automatic mail project libraries/jackson-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Desktop/automatic mail project libraries/jackson-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Desktop/automatic mail project libraries/jackson-databind.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Desktop/automatic mail project libraries/jackson-dataformat-xml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Desktop/automatic mail project libraries/jackson-jaxrs-base.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Desktop/automatic mail project libraries/jackson-jaxrs-json-provider.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hsadrasr/Desktop/automatic mail project libraries/javax.ws.rs-api-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/sources/soa-wip/redist/jackson-module-jaxb-annotations.jar"/>
+	<classpathentry kind="lib" path="E:/sources/soa-wip/redist/javax.annotation-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
